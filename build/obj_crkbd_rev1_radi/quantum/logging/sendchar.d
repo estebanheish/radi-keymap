@@ -1,0 +1,11 @@
+.build/obj_crkbd_rev1_radi/quantum/logging/sendchar.o: \
+ quantum/logging/sendchar.c .build/obj_crkbd_rev1_radi/src/info_config.h \
+ keyboards/crkbd/keymaps/radi/config.h keyboards/crkbd/post_config.h \
+ quantum/rgb_matrix/post_config.h quantum/split_common/post_config.h \
+ quantum/logging/sendchar.h
+.build/obj_crkbd_rev1_radi/src/info_config.h:
+keyboards/crkbd/keymaps/radi/config.h:
+keyboards/crkbd/post_config.h:
+quantum/rgb_matrix/post_config.h:
+quantum/split_common/post_config.h:
+quantum/logging/sendchar.h:
